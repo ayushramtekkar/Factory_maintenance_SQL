@@ -77,4 +77,4 @@ All queries and results are in [`Factory_Maintenance_SQL.ipynb`](Factory_Mainten
 
 **Ayush Ramtekkar**: M.Sc. student in AI / Data Science & Digital Business (Gisma, Berlin) with a B.E. in Mechanical Engineering. Looking for a **Werkstudent role in data analytics**, ideally in energy, cleantech or manufacturing.
 
-📊 See also: [Factory Energy Analysis (Python & pandas)](https://github.com/ayushramtekkar/factory-energy-analysis)
+📊 See also: [Factory Energy Analysis (Python & pandas)](https://github.com/ayushramtekkar/Factory_Energy_Analysis)
