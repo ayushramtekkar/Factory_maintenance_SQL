@@ -1,0 +1,9 @@
+machine,month,repair_cost_eur,issue
+Compressor A,Jan,450,overheating
+Compressor A,Jun,620,valve
+Oven J,Mar,380,overheating
+Chiller F,Jul,900,refrigerant
+Pump G,Aug,210,seal
+Compressor I,Sep,540,overheating
+Oven J,Oct,300,sensor
+Fan H,Nov,90,belt
